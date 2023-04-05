@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kaushikmt157
 - 👀 I’m interested in Software development and Web designing
+- 
 - 🌱 I’m currently learning Python and GUI framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m doing competitive programming in c++...
 - 📫 How to reach me ...
 
 <!---
